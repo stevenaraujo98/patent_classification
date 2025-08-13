@@ -149,3 +149,6 @@ random_search.fit(X_train, y_train)
 print("Mejores parámetros:", random_search.best_params_)
 print("Mejor score:", random_search.best_score_)
 ```
+
+### Libraries
+scikit-learn==1.6.1
